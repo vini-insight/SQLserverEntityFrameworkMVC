@@ -1,6 +1,10 @@
 # SQLserverEntityFrameworkMVC
 SQL server Entity Framework MVC
 
+USANDO PROJETO:
+
+    ACESSAR: http://localhost:5000/book/create E http://localhost:5000/author/create
+
 
 Tutorial : https://www.learnentityframeworkcore.com/walkthroughs/aspnetcore-application
 
